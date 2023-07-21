@@ -1,0 +1,181 @@
+25 25 15 145
+L 3 7 15 true 19 9 20 9 
+W 9 5 15 true 13 7 13 8 
+W 9 5 15 true 5 17 4 17 
+W 9 5 15 true 23 0 23 1 
+W 9 5 15 true 10 13 10 14 
+W 9 5 15 true 19 15 20 15 
+W 9 5 15 true 6 16 6 17 
+W 9 5 15 true 6 10 6 9 
+W 9 5 15 true 2 4 2 3 
+W 9 5 15 true 4 4 3 4 
+W 9 5 15 true 7 5 7 6 
+W 9 5 14 true 5 13 5 14 
+W 9 5 13 true 8 16 8 15 
+W 9 5 12 true 3 11 4 11 
+W 9 5 11 true 10 17 9 17 
+W 9 5 9 true 4 15 5 15 
+W 9 5 8 true 6 15 -1 -1 
+W 9 5 8 true 6 14 -1 -1 
+W 9 5 7 true 2 15 3 15 
+W 9 5 7 true 6 13 5 13 
+W 9 5 7 true 7 16 -1 -1 
+W 9 5 7 true 4 14 -1 -1 
+W 9 5 6 true 7 18 7 17 
+W 9 5 6 true 5 16 -1 -1 
+W 9 5 6 true 6 17 -1 -1 
+W 9 5 6 true 7 15 -1 -1 
+W 9 5 6 true 2 16 3 16 
+W 9 5 6 true 9 18 8 18 
+W 9 5 6 true 5 12 5 13 
+W 9 5 5 true 6 18 -1 -1 
+W 9 5 5 true 4 13 -1 -1 
+W 9 5 5 true 7 14 -1 -1 
+W 9 5 5 true 7 13 -1 -1 
+W 9 5 5 true 8 15 -1 -1 
+W 9 5 5 true 1 14 2 14 
+W 9 5 5 true 3 16 3 15 
+W 9 5 5 true 4 19 4 18 
+W 9 5 5 true 8 14 -1 -1 
+W 9 5 5 true 4 17 -1 -1 
+W 9 5 5 true 10 16 9 16 
+W 9 5 4 true 7 17 -1 -1 
+W 9 5 4 true 9 15 -1 -1 
+W 9 5 4 true 5 14 -1 -1 
+W 9 5 4 true 6 12 -1 -1 
+W 9 5 4 true 4 12 -1 -1 
+W 9 5 4 true 6 20 6 19 
+W 9 5 4 true 4 11 -1 -1 
+W 9 5 4 true 7 19 -1 -1 
+W 9 5 4 true 2 14 3 14 
+W 9 5 4 true 8 13 -1 -1 
+W 9 5 4 true 7 9 7 10 
+W 9 5 4 true 9 14 -1 -1 
+W 9 5 4 true 9 13 -1 -1 
+W 9 5 4 true 5 18 -1 -1 
+W 9 5 3 true 4 16 -1 -1 
+W 9 5 3 true 3 13 -1 -1 
+W 9 5 3 true 9 16 -1 -1 
+W 9 5 3 true 4 10 -1 -1 
+W 9 5 3 true 5 15 -1 -1 
+W 9 5 3 true 1 15 -1 -1 
+W 9 5 3 true 7 11 6 11 
+W 9 5 3 true 8 18 8 17 
+W 9 5 3 true 7 20 -1 -1 
+W 9 5 3 true 8 17 9 17 
+W 9 5 3 true 6 11 5 11 
+W 9 5 3 true 5 19 -1 -1 
+W 9 5 3 true 3 12 -1 -1 
+W 9 5 3 true 10 15 -1 -1 
+W 9 5 3 true 10 14 -1 -1 
+W 9 5 3 true 4 18 -1 -1 
+W 9 5 3 true 10 19 10 18 
+W 9 5 3 true 2 12 -1 -1 
+W 9 5 3 true 2 11 -1 -1 
+W 9 5 3 true 6 19 -1 -1 
+W 9 5 3 true 3 15 -1 -1 
+W 9 5 3 true 8 12 -1 -1 
+W 9 5 3 true 11 14 -1 -1 
+W 9 5 3 true 10 11 10 12 
+W 9 5 3 true 5 20 -1 -1 
+W 9 5 2 true 3 17 -1 -1 
+W 9 5 2 true 10 12 9 12 
+W 9 5 2 true 2 10 -1 -1 
+W 9 5 2 true 11 16 -1 -1 
+W 9 5 2 true 0 15 -1 -1 
+W 9 5 2 true 8 19 -1 -1 
+W 9 5 2 true 2 17 -1 -1 
+W 9 5 2 true 7 12 -1 -1 
+W 9 5 2 true 1 13 2 13 
+W 9 5 2 true 3 18 -1 -1 
+W 9 5 2 true 3 20 3 19 
+W 9 5 2 true 11 15 -1 -1 
+W 9 5 2 true 4 20 -1 -1 
+W 9 5 2 true 5 10 -1 -1 
+W 9 5 2 true 8 20 -1 -1 
+W 9 5 2 true 9 11 -1 -1 
+W 9 5 2 true 4 9 -1 -1 
+W 9 5 2 true 0 14 -1 -1 
+W 9 5 2 true 6 22 6 21 
+W 9 5 2 true 5 21 -1 -1 
+W 9 5 2 true 12 15 -1 -1 
+W 9 5 2 true 2 18 -1 -1 
+W 9 5 2 true 1 12 -1 -1 
+W 9 5 2 true 1 11 -1 -1 
+W 9 5 2 true 8 11 -1 -1 
+W 9 5 2 true 11 13 -1 -1 
+W 9 5 2 true 11 12 -1 -1 
+W 9 5 2 true 4 22 5 22 
+W 9 5 1 true 9 17 -1 -1 
+W 9 5 1 true 3 10 -1 -1 
+W 9 5 1 true 11 17 -1 -1 
+W 9 5 1 true 1 16 -1 -1 
+W 9 5 1 true 0 16 -1 -1 
+W 9 5 1 true 10 18 -1 -1 
+W 9 5 1 true 5 11 -1 -1 
+W 9 5 1 true 2 19 -1 -1 
+W 9 5 1 true 12 16 -1 -1 
+W 9 5 1 true 7 21 -1 -1 
+W 9 5 1 true 3 14 -1 -1 
+W 9 5 1 true 5 9 -1 -1 
+W 9 5 1 true 1 17 -1 -1 
+W 9 5 1 true 8 10 -1 -1 
+W 9 5 1 true 9 19 -1 -1 
+W 9 5 1 true 6 9 -1 -1 
+W 9 5 1 true 11 18 -1 -1 
+W 9 5 1 true 12 13 -1 -1 
+W 9 5 1 true 4 21 -1 -1 
+W 9 5 1 true 2 9 -1 -1 
+W 9 5 1 true 0 13 -1 -1 
+W 9 5 1 true 9 20 -1 -1 
+W 9 5 1 true 12 14 -1 -1 
+W 9 5 1 true 7 10 -1 -1 
+W 9 5 1 true 9 21 -1 -1 
+W 9 5 1 true 9 12 -1 -1 
+W 9 5 1 true 5 8 -1 -1 
+W 9 5 1 true 5 23 -1 -1 
+W 9 5 1 true 13 14 -1 -1 
+W 9 5 1 true 3 19 -1 -1 
+W 9 5 1 true 0 11 -1 -1 
+W 9 5 1 true 1 10 -1 -1 
+W 9 5 1 true 11 11 -1 -1 
+C 5 4 15 true 3 7 3 8 2 true 9 
+O 4 4 13 true 16 11 16 12 
+O 4 4 13 true 18 14 18 15 
+A 3 4 15 true 22 17 24 17 
+Z 2 1 15 true 17 10 17 11 
+34
+Runda 14
+Pojawia sie nowy organizm: Wilk, na pozycji (9;17)
+Pojawia sie nowy organizm: Wilk, na pozycji (3;10)
+Pojawia sie nowy organizm: Wilk, na pozycji (11;17)
+Pojawia sie nowy organizm: Wilk, na pozycji (1;16)
+Pojawia sie nowy organizm: Wilk, na pozycji (0;16)
+Pojawia sie nowy organizm: Wilk, na pozycji (10;18)
+Pojawia sie nowy organizm: Wilk, na pozycji (5;11)
+Pojawia sie nowy organizm: Wilk, na pozycji (2;19)
+Pojawia sie nowy organizm: Wilk, na pozycji (12;16)
+Pojawia sie nowy organizm: Wilk, na pozycji (7;21)
+Pojawia sie nowy organizm: Wilk, na pozycji (3;14)
+Pojawia sie nowy organizm: Wilk, na pozycji (5;9)
+Pojawia sie nowy organizm: Wilk, na pozycji (1;17)
+Pojawia sie nowy organizm: Wilk, na pozycji (8;10)
+Pojawia sie nowy organizm: Wilk, na pozycji (9;19)
+Pojawia sie nowy organizm: Wilk, na pozycji (6;9)
+Pojawia sie nowy organizm: Wilk, na pozycji (11;18)
+Pojawia sie nowy organizm: Wilk, na pozycji (12;13)
+Pojawia sie nowy organizm: Wilk, na pozycji (4;21)
+Pojawia sie nowy organizm: Wilk, na pozycji (2;9)
+Pojawia sie nowy organizm: Wilk, na pozycji (0;13)
+Pojawia sie nowy organizm: Wilk, na pozycji (9;20)
+Pojawia sie nowy organizm: Wilk, na pozycji (12;14)
+Pojawia sie nowy organizm: Wilk, na pozycji (7;10)
+Pojawia sie nowy organizm: Wilk, na pozycji (9;21)
+Pojawia sie nowy organizm: Wilk, na pozycji (9;12)
+Pojawia sie nowy organizm: Wilk, na pozycji (5;8)
+Pojawia sie nowy organizm: Wilk, na pozycji (5;23)
+Pojawia sie nowy organizm: Wilk, na pozycji (13;14)
+Pojawia sie nowy organizm: Wilk, na pozycji (3;19)
+Pojawia sie nowy organizm: Wilk, na pozycji (0;11)
+Pojawia sie nowy organizm: Wilk, na pozycji (1;10)
+Pojawia sie nowy organizm: Wilk, na pozycji (11;11)
